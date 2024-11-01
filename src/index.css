@@ -1,0 +1,10 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.runner {
+    animation: scroll 2s infinite linear;
+}
+
